@@ -1,9 +1,10 @@
 {
   "name": "S.Configuration.Objects",
+  "projectId": "09a785dc-50e8-4fff-9e56-390d0fe5033c",
   "description": "Objects utilized in S.Configuration Library",
   "main": "NewActivity.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "23.4.2"
+    "UiPath.System.Activities": "23.10.3"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -39,7 +40,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "modernBehavior": true,
+    "saveToCloud": false
   },
   "expressionLanguage": "CSharp",
   "isTemplate": false,
